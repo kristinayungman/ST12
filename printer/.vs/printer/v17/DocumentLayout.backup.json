@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u04352\u0421\u0435\u043C\\ST12\\printer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F67C19-DD65-48F3-968A-7E1A9059C0F7}|printer\\printer.vcxproj|C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u04352\u0421\u0435\u043C\\ST12\\printer\\printer\\printer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97F67C19-DD65-48F3-968A-7E1A9059C0F7}|printer\\printer.vcxproj|solutionrelative:printer\\printer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "printer.cpp",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u04352\u0421\u0435\u043C\\ST12\\printer\\printer\\printer.cpp",
+              "RelativeDocumentMoniker": "printer\\printer.cpp",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0421\u0438\u0441\u0442\u0435\u043C\u043D\u043E\u04352\u0421\u0435\u043C\\ST12\\printer\\printer\\printer.cpp",
+              "RelativeToolTip": "printer\\printer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-15T18:45:05.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
