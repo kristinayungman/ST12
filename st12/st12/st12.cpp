@@ -9,17 +9,20 @@ using namespace std;
 int main()
 {
     setlocale(0, "rus");
-    cout << "\nВыберите приоритет потока: 1,2,3" << endl;
-    char choice = _getch();
+    //cout << "\nВыберите приоритет потока: 1,2,3" << endl;
+    //char choice = _getch();
+    srand(static_cast<unsigned int>(time(nullptr)));
+    int choice = (rand() % 3) + 1;
+   //cout << "Клиент выбрал случайное число: " << choice << endl;
     int priority;
     switch (choice) {
-    case '1':
+    case 1:
         priority = THREAD_PRIORITY_IDLE;
         break;
-    case '2':
+    case 2:
         priority = THREAD_PRIORITY_NORMAL;
         break;
-    case '3':priority = THREAD_PRIORITY_HIGHEST;
+    case 3:priority = THREAD_PRIORITY_HIGHEST;
         break;
     default:
         priority = THREAD_PRIORITY_NORMAL;
